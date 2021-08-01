@@ -1,1 +1,1 @@
-# rb_oops_project
+# An example of dependency injected OOPS program using user name login application
